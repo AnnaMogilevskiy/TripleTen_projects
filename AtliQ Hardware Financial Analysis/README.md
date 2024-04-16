@@ -1,1 +1,1 @@
-
+https://nbviewer.org/github/AnnaMogilevskiy/TripleTen_projects/blob/4cbb28ed56c6b6f51385edbfd55f9be036da99db/AtliQ%20Hardware%20Financial%20Analysis/AtliQ%20Hardware%20Financial%20Analysis.ipynb
