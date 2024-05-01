@@ -5,7 +5,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [AtliQ Hardware Financial Analysis](https://github.com/AnnaMogilevskiy/TripleTen_projects/tree/main/AtliQ%20Hardware%20Financial%20Analysis)| The project task was to conduct the audit of AtliQ Hardware sales. |
-| 2 | [Business Analytics. Yandex.Afisha](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to optimize marketing expenses of Yandex.Afisha.
+| 2 | [Business Analytics. Yandex.Afisha](https://github.com/AnnaMogilevskiy/TripleTen_projects/tree/main/BA_project) | The project task was to optimize marketing expenses of Yandex.Afisha.
 
 The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
