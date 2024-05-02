@@ -1,4 +1,4 @@
-# Project - A/B testing
+# Project - A/B Test Analysis.Online store
 ##  Project description
 ###  Project's objective
 
