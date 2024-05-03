@@ -40,7 +40,7 @@ First of all I made a full data overview, data preprocessing: changed headers st
 
 ### Results
 
-On each step of my analysis I left comments about my findings and at the end of my project I resumed everything and wrote recommendations based on the test results to stop the test or to continue the test.
+On each step of my analysis I left comments about my findings and at the end of my project I summed up everything and wrote recommendations based on the test results to stop the test or to continue the test.
 
 Please have a look at the Jupyter Notebook **full version** of [A/B testing project](https://nbviewer.org/github/AnnaMogilevskiy/TripleTen_projects/blob/main/AB_testing/AB_testing_project.ipynb).
 
