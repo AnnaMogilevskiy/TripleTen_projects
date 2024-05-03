@@ -49,6 +49,6 @@ After I made Data preprocessing: changed column names, converted columns with da
 
 ### Results
 
-On each step of my analysis I left comments about my findings and at the end of my project I resumed everything and wrote recommendations.
+On each step of my analysis I left comments about my findings and at the end of my project I summarized everything and wrote recommendations.
 
 Please have a look at the Jupyter Notebook Full version of [Business Analitics. Yandex.Afisha](https://nbviewer.org/github/AnnaMogilevskiy/TripleTen_projects/blob/main/BA_project/Business%20Analytics.%20Yandex.Afisha.ipynb).
