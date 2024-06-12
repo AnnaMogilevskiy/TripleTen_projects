@@ -3,7 +3,7 @@
 # Project - AtliQ Hardware Financial Analysis
 
 
-This is the final project I worked on in the TripleTen Data Science program. This project was the most independent project I've worked on and I loved it.
+This is the final project I worked on in the TripleTen Data Analytics program. This project was the most independent project I've worked on and I loved it.
 
 ### AtliQ Hardware sales
 
